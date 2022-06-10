@@ -20,7 +20,7 @@
           <a class="nav-link active" aria-current="page" href="#">Index</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Citas</a>
+          <a class="nav-link" href="#">Citas Medicas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Conocenos</a>
